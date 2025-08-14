@@ -1,10 +1,7 @@
 # VolQuoter
-Reinforcement Learning for Volatility-Aware Options Market Making
-
-# VolQuoter
 Reinforcement Learning for Volatility‑Aware Options Market Making
 
-VolQuoter is a hybrid quant research and trading project that simulates an options market microstructure and trains a reinforcement learning market maker to quote bid/ask spreads and hedge inventory under stochastic volatility. This project demonstrates research, strategy implementation, and production-ready code—all in one package, suitable for quant research, trading, and development roles.
+VolQuoter is a hybrid quant research and trading project that simulates an options market microstructure and trains a reinforcement learning market maker to quote bid/ask spreads and hedge inventory under stochastic volatility.
 
 ## Features
 - Custom market simulation environment (`env/`) for options trading.
